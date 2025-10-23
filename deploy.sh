@@ -10,7 +10,11 @@ npm run build
 echo "🌿 Switching to gh-pages branch..."
 git checkout gh-pages
 
-# Copy dist contents to root
+# Remove all files except .git
+echo "🧹 Cleaning gh-pages branch..."
+find . -maxdepth 1 -not -name '.git' -not -name '.' -exec rm -rf {} +
+
+# Copy only the built files from dist
 echo "📁 Copying build files..."
 cp -r dist/* .
 
