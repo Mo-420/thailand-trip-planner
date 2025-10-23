@@ -1,0 +1,142 @@
+{
+  "items": [
+    {
+      "slug": "bangkok",
+      "name": "Bangkok",
+      "hint": "Bangkok Thailand",
+      "qid": "Q1861"
+    },
+    {
+      "slug": "grand-palace",
+      "name": "Grand Palace",
+      "hint": "Grand Palace Bangkok Thailand",
+      "qid": "Q178551"
+    },
+    {
+      "slug": "wat-pho",
+      "name": "Wat Pho",
+      "hint": "Wat Pho Bangkok Thailand",
+      "qid": "Q180719"
+    },
+    {
+      "slug": "chatuchak-weekend-market",
+      "name": "Chatuchak Weekend Market",
+      "hint": "Chatuchak Weekend Market Bangkok",
+      "qid": "Q407072"
+    },
+    {
+      "slug": "chiang-mai",
+      "name": "Chiang Mai",
+      "hint": "Chiang Mai Thailand",
+      "qid": "Q21197"
+    },
+    {
+      "slug": "doi-suthep",
+      "name": "Wat Phra That Doi Suthep",
+      "hint": "Wat Phra That Doi Suthep Thailand",
+      "qid": "Q1328198"
+    },
+    {
+      "slug": "old-city-chiang-mai",
+      "name": "Chiang Mai Old City",
+      "hint": "Chiang Mai Old City Thailand",
+      "qid": "Q2746245"
+    },
+    {
+      "slug": "night-bazaar",
+      "name": "Chiang Mai Night Bazaar",
+      "hint": "Chiang Mai Night Bazaar Thailand",
+      "qid": "Q2810770"
+    },
+    {
+      "slug": "phuket",
+      "name": "Phuket",
+      "hint": "Phuket Thailand",
+      "qid": "Q75389"
+    },
+    {
+      "slug": "patong-beach",
+      "name": "Patong Beach",
+      "hint": "Patong Beach Thailand",
+      "qid": "Q7120415"
+    },
+    {
+      "slug": "phi-phi-islands",
+      "name": "Phi Phi Islands",
+      "hint": "Phi Phi Islands Thailand",
+      "qid": "Q735572"
+    },
+    {
+      "slug": "big-buddha-phuket",
+      "name": "Big Buddha (Phuket)",
+      "hint": "Big Buddha Phuket Thailand",
+      "qid": "Q5946928"
+    },
+    {
+      "slug": "krabi",
+      "name": "Krabi",
+      "hint": "Krabi Thailand",
+      "qid": "Q92463"
+    },
+    {
+      "slug": "railay-beach",
+      "name": "Railay Beach",
+      "hint": "Railay Beach Thailand",
+      "qid": "Q7309499"
+    },
+    {
+      "slug": "ayutthaya",
+      "name": "Ayutthaya",
+      "hint": "Ayutthaya Thailand",
+      "qid": "Q132169"
+    },
+    {
+      "slug": "pai",
+      "name": "Pai",
+      "hint": "Pai Thailand",
+      "qid": "Q702505"
+    },
+    {
+      "slug": "pai-canyon",
+      "name": "Pai Canyon",
+      "hint": "Pai Canyon Thailand",
+      "qid": "Q7131218"
+    },
+    {
+      "slug": "songkran",
+      "name": "Songkran (Thai New Year)",
+      "hint": "Songkran Thailand",
+      "qid": "Q131010"
+    },
+    {
+      "slug": "thai-massage",
+      "name": "Thai Massage & Wellness",
+      "hint": "Thai massage Thailand",
+      "qid": "Q185835"
+    },
+    {
+      "slug": "floating-markets",
+      "name": "Floating Markets",
+      "hint": "Damnoen Saduak Floating Market Thailand",
+      "qid": "Q1389956"
+    },
+    {
+      "slug": "muay-thai",
+      "name": "Muay Thai",
+      "hint": "Muay Thai Thailand",
+      "qid": "Q874405"
+    },
+    {
+      "slug": "thai-cuisine",
+      "name": "Thai Cuisine",
+      "hint": "Thai food Thailand",
+      "qid": "Q19815"
+    },
+    {
+      "slug": "buddhist-temples",
+      "name": "Buddhist Temples",
+      "hint": "Buddhist temple Thailand",
+      "qid": "Q804294"
+    }
+  ]
+}

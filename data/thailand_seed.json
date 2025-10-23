@@ -1,0 +1,45 @@
+{
+  "collections": [
+    {
+      "slug": "bangkok",
+      "name": "Bangkok",
+      "type": "city",
+      "children": [
+        { "name": "Grand Palace", "type": "poi", "search_hint": "Grand Palace Bangkok Thailand" },
+        { "name": "Wat Pho", "type": "temple", "search_hint": "Wat Pho Bangkok Thailand" },
+        { "name": "Chatuchak Market", "type": "market", "search_hint": "Chatuchak Weekend Market Bangkok" }
+      ]
+    },
+    {
+      "slug": "chiang-mai",
+      "name": "Chiang Mai",
+      "type": "city",
+      "children": [
+        { "name": "Doi Suthep", "type": "temple", "search_hint": "Wat Phra That Doi Suthep Chiang Mai" },
+        { "name": "Old City", "type": "district", "search_hint": "Chiang Mai Old City Thailand" },
+        { "name": "Night Bazaar", "type": "market", "search_hint": "Chiang Mai Night Bazaar Thailand" }
+      ]
+    },
+    {
+      "slug": "phuket",
+      "name": "Phuket",
+      "type": "island",
+      "children": [
+        { "name": "Patong Beach", "type": "beach", "search_hint": "Patong Beach Phuket Thailand" },
+        { "name": "Phi Phi Islands", "type": "islands", "search_hint": "Ko Phi Phi Thailand" },
+        { "name": "Big Buddha", "type": "landmark", "search_hint": "Big Buddha Phuket Thailand" }
+      ]
+    },
+    { "slug": "krabi", "name": "Krabi", "type": "province", "children": [] },
+    { "slug": "ayutthaya", "name": "Ayutthaya", "type": "city", "children": [] },
+    { "slug": "pai", "name": "Pai", "type": "town", "children": [] }
+  ],
+  "activities": [
+    { "name": "Songkran Festival", "type": "festival", "search_hint": "Songkran Thailand water festival" },
+    { "name": "Thai Massage & Wellness", "type": "wellness", "search_hint": "Thai massage Thailand" },
+    { "name": "Floating Markets", "type": "market", "search_hint": "Damnoen Saduak Floating Market Thailand" },
+    { "name": "Muay Thai", "type": "sport", "search_hint": "Muay Thai Thailand boxing" },
+    { "name": "Thai Cuisine", "type": "food", "search_hint": "Thai food Thailand cuisine" },
+    { "name": "Buddhist Temples", "type": "religion", "search_hint": "Buddhist temple Thailand" }
+  ]
+}
